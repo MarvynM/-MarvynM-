@@ -7,7 +7,8 @@
 ```yaml
 name        Marvyn
 location    Wetterau, Germany
-status      retraining as a Software Developer (2025 - 2027)     # Umschüler | Fachinformatiker Anwendungsentwicklung
+status      retraining as a Software Developer (2025 - 2027)
+# Umschüler | Fachinformatiker Anwendungsentwicklung
 
 
 currently_learning = [SQL, Python (Tkinter, pandas), JavaScript, React with Node.js]
@@ -16,12 +17,11 @@ hobbies = [3D Modelling, Fitness, Personal Development]
 
 
 class interests {
-  - Automation & IoT
   - Microcontroller
-  - Python & Data
+  - Python
   - UI/UX
-  - Databases
   - Cybersecurity
+  - Databases
 }
 
 class technical_skills {
