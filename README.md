@@ -83,10 +83,11 @@ OS            : Linux | Windows
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MarvynM&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div align = "center">
   
 <!-- [![](https://visitcount.itsvg.in/api?id=MarvynM&icon=0&color=13)](https://visitcount.itsvg.in) -->
 
+<div align = "center">
+  
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=125&color=gradient&fontAlign=48&fontAlignY=30&animation=fadeIn&textBg=false&fontColor=BBFFBB&section=footer)
 
 </div>
