@@ -9,13 +9,10 @@ name =       Marvyn
 location =   Wetterau, Germany
 status =     retraining as a Software Developer (2025 - 2027)     # Umschüler | Fachinformatiker Anwendungsentwicklung
 
-„There is no magic. Only logic.“
 
 currently_learning = ["SQL", "Python (Tkinter, pandas)", "JavaScript", "React with Node.js"]
-
-hobbies = ["3D Modelling", "Fitness", "Personal Development"]
-
 future_goals = ["Graduation as Software Developer", "Gain the skills of a Full-Stack-Dev"]
+hobbies = ["3D Modelling", "Fitness", "Personal Development"]
 
 
 class interests {
@@ -26,7 +23,6 @@ class interests {
   - Databases
   - Cybersecurity
 }
-
 
 class technical_skills {
   - Frontend = ["HTML", "CSS", "JavaScript"]
