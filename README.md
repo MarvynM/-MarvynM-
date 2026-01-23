@@ -16,7 +16,7 @@ future_goals = [Graduation as Software Developer, Gain the skills of a Full-Stac
 hobbies = [3D Modelling, Fitness, Personal Development]
 
 
- .interests {
+.interests {
   - Microcontroller
   - Python
   - UI/UX
