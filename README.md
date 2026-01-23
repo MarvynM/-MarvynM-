@@ -16,7 +16,7 @@ future_goals = [Graduation as Software Developer, Gain the skills of a Full-Stac
 hobbies = [3D Modelling, Fitness, Personal Development]
 
 
-class interests {
+ .interests {
   - Microcontroller
   - Python
   - UI/UX
@@ -24,7 +24,7 @@ class interests {
   - Databases
 }
 
-class technical_skills {
+.technical_skills {
   - Frontend = [HTML, CSS, JavaScript]
   - Python = [Arduino, Raspberry Pi / Orange Pi, ESP32]
 }
